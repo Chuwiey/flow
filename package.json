@@ -1,5 +1,5 @@
 {
-  "name": "flow.js",
+  "name": "flow",
   "version": "0.0.0",
   "description": "A lightweight Javascript MVC framework determined to make user flow easy",
   "main": "flow.js",
@@ -8,20 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/chuwiey/flow.js.git"
+    "url": "git://github.com/chuwiey/flow.git"
   },
   "keywords": [
     "js",
     "framework",
     "mvc",
     "user",
-    "flow",
-    "flow.js"
+    "flow"
   ],
   "author": "Ben Fonarov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chuwiey/flow.js/issues"
+    "url": "https://github.com/chuwiey/flow/issues"
   },
-  "homepage": "https://github.com/chuwiey/flow.js"
+  "homepage": "https://github.com/chuwiey/flow"
 }
